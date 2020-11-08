@@ -4,9 +4,6 @@
   "repository": "https://github.com/powermestartup/test-stripe-backend",
   "keywords": ["ios", "stripe"],
   "env": {
-    "STRIPE_TEST_SECRET_KEY": {
-      "description": "sk_test_51Hkzb4DWVEpvlNAuCzd1Ekvh9jaiet30EUJo1p73sT0JYx5ygQiC8O2FJhyVJdlcXz4cVPYosY2txebjnUGFBMAf00tAY97CpO",
-      "required": true
-    }
+    "STRIPE_TEST_SECRET_KEY": "sk_test_51Hkzb4DWVEpvlNAuCzd1Ekvh9jaiet30EUJo1p73sT0JYx5ygQiC8O2FJhyVJdlcXz4cVPYosY2txebjnUGFBMAf00tAY97CpO"
   }
 }
